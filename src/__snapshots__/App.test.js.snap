@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "width": "12rem",
+          }
+        }
+      >
+        <img
+          className="card-img-top"
+          src="https://avatars.githubusercontent.com/u/101788833?s=400&v=4"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            GitHubCard
+          </div>
+          <p
+            className="card-text"
+          >
+            Just a little preliminary gobblyguck to get started
+          </p>
+          <button
+            className="btn btn-primary"
+            disabled={false}
+            type="button"
+          >
+            Going Somewhere?
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
